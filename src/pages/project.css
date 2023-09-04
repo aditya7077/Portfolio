@@ -1,0 +1,11 @@
+.row2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+.col3{
+    height: 100vh;
+    background-image: url('../images/project_bg.jpg');
+}
